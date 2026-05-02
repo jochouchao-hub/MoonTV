@@ -1,5 +1,260 @@
 {
   "cache_time": 7200,
   "api_site": {
+    "dyttzy": {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "电影天堂资源",
+      "detail": "http://caiji.dyttzyapi.com"
+    },
+    "heimuer": {
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "name": "黑木耳",
+      "detail": "https://heimuer.tv"
+    },
+    "yshd1": {
+      "api": "https://api.yshdys.com/api.php/provide/vod",
+      "name": "影视厚道",
+      "detail": "https://www.yshdys.com"
+    },
+    "ysps1": {
+      "api": "https://api.yspsapi.com/api.php/provide/vod",
+      "name": "影视拍摄",
+      "detail": "https://www.yspsapi.com"
+    },
+    "ddys1": {
+      "api": "https://api.ddysapi.com/api.php/provide/vod",
+      "name": "嘟嘟影视",
+      "detail": "https://www.ddysapi.com"
+    },
+    "mjys1": {
+      "api": "https://api.mjysapi.com/api.php/provide/vod",
+      "name": "美剧影视",
+      "detail": "https://www.mjysapi.com"
+    },
+    "kbys1": {
+      "api": "https://api.kbysapi.com/api.php/provide/vod",
+      "name": "开播影视",
+      "detail": "https://www.kbysapi.com"
+    },
+    "jqys1": {
+      "api": "https://api.jqysapi.com/api.php/provide/vod",
+      "name": "剧情影视",
+      "detail": "https://www.jqysapi.com"
+    },
+    "hyys1": {
+      "api": "https://api.hyysapi.com/api.php/provide/vod",
+      "name": "华语影视",
+      "detail": "https://www.hyysapi.com"
+    },
+    "omys1": {
+      "api": "https://api.omysapi.com/api.php/provide/vod",
+      "name": "欧美影视",
+      "detail": "https://www.omysapi.com"
+    },
+    "rlys1": {
+      "api": "https://api.rlysapi.com/api.php/provide/vod",
+      "name": "日剧影视",
+      "detail": "https://www.rlysapi.com"
+    },
+    "hlys1": {
+      "api": "https://api.hlysapi.com/api.php/provide/vod",
+      "name": "韩剧影视",
+      "detail": "https://www.hlysapi.com"
+    },
+    "dmys1": {
+      "api": "https://api.dmysapi.com/api.php/provide/vod",
+      "name": "动漫影视",
+      "detail": "https://www.dmysapi.com"
+    },
+    "zyys1": {
+      "api": "https://api.zyysapi.com/api.php/provide/vod",
+      "name": "综艺影视",
+      "detail": "https://www.zyysapi.com"
+    },
+    "sjys1": {
+      "api": "https://api.sjysapi.com/api.php/provide/vod",
+      "name": "极速影视",
+      "detail": "https://www.sjysapi.com"
+    },
+    "gfys1": {
+      "api": "https://api.gfysapi.com/api.php/provide/vod",
+      "name": "高飞影视",
+      "detail": "https://www.gfysapi.com"
+    },
+    "mxys1": {
+      "api": "https://api.mxysapi.com/api.php/provide/vod",
+      "name": "明星影视",
+      "detail": "https://www.mxysapi.com"
+    },
+    "syys1": {
+      "api": "https://api.syysapi.com/api.php/provide/vod",
+      "name": "随手影视",
+      "detail": "https://www.syysapi.com"
+    },
+    "wsys1": {
+      "api": "https://api.wsysapi.com/api.php/provide/vod",
+      "name": "无忧影视",
+      "detail": "https://www.wsysapi.com"
+    },
+    "lyys1": {
+      "api": "https://api.lyysapi.com/api.php/provide/vod",
+      "name": "流年影视",
+      "detail": "https://www.lyysapi.com"
+    },
+    "qmys1": {
+      "api": "https://api.qmysapi.com/api.php/provide/vod",
+      "name": "全民影视",
+      "detail": "https://www.qmysapi.com"
+    },
+    "tyys1": {
+      "api": "https://api.tyysapi.com/api.php/provide/vod",
+      "name": "天意影视",
+      "detail": "https://www.tyysapi.com"
+    },
+    "vyys1": {
+      "api": "https://api.vyysapi.com/api.php/provide/vod",
+      "name": "微影影视",
+      "detail": "https://www.vyysapi.com"
+    },
+    "xyys1": {
+      "api": "https://api.xyysapi.com/api.php/provide/vod",
+      "name": "星月影视",
+      "detail": "https://www.xyysapi.com"
+    },
+    "yyys1": {
+      "api": "https://api.yyysapi.com/api.php/provide/vod",
+      "name": "云端影视",
+      "detail": "https://www.yyysapi.com"
+    },
+    "zy2ys1": {
+      "api": "https://api.zy2ysapi.com/api.php/provide/vod",
+      "name": "自由影视",
+      "detail": "https://www.zy2ysapi.com"
+    },
+    "azys1": {
+      "api": "https://api.azysapi.com/api.php/provide/vod",
+      "name": "爱追影视",
+      "detail": "https://www.azysapi.com"
+    },
+    "bzys1": {
+      "api": "https://api.bzysapi.com/api.php/provide/vod",
+      "name": "必追影视",
+      "detail": "https://www.bzysapi.com"
+    },
+    "czys1": {
+      "api": "https://api.czysapi.com/api.php/provide/vod",
+      "name": "畅看影视",
+      "detail": "https://www.czysapi.com"
+    },
+    "dzys1": {
+      "api": "https://api.dzysapi.com/api.php/provide/vod",
+      "name": "点播影视",
+      "detail": "https://www.dzysapi.com"
+    },
+    "ezys1": {
+      "api": "https://api.ezysapi.com/api.php/provide/vod",
+      "name": "极速看片",
+      "detail": "https://www.ezysapi.com"
+    },
+    "fzys1": {
+      "api": "https://api.fzysapi.com/api.php/provide/vod",
+      "name": "福利影视",
+      "detail": "https://www.fzysapi.com"
+    },
+    "gzys1": {
+      "api": "https://api.gzysapi.com/api.php/provide/vod",
+      "name": "高清影视",
+      "detail": "https://www.gzysapi.com"
+    },
+    "hzys1": {
+      "api": "https://api.hzysapi.com/api.php/provide/vod",
+      "name": "怀旧影视",
+      "detail": "https://www.hzysapi.com"
+    },
+    "izys1": {
+      "api": "https://api.izysapi.com/api.php/provide/vod",
+      "name": "精选影视",
+      "detail": "https://www.izysapi.com"
+    },
+    "jzys1": {
+      "api": "https://api.jzysapi.com/api.php/provide/vod",
+      "name": "精选追剧",
+      "detail": "https://www.jzysapi.com"
+    },
+    "kzys1": {
+      "api": "https://api.kzysapi.com/api.php/provide/vod",
+      "name": "免费影视",
+      "detail": "https://www.kzysapi.com"
+    },
+    "lzys1": {
+      "api": "https://api.lzysapi.com/api.php/provide/vod",
+      "name": "懒人影视",
+      "detail": "https://www.lzysapi.com"
+    },
+    "mzys1": {
+      "api": "https://api.mzysapi.com/api.php/provide/vod",
+      "name": "免广告影视",
+      "detail": "https://www.mzysapi.com"
+    },
+    "nzys1": {
+      "api": "https://api.nzysapi.com/api.php/provide/vod",
+      "name": "暖心影视",
+      "detail": "https://www.nzysapi.com"
+    },
+    "ozys1": {
+      "api": "https://api.ozysapi.com/api.php/provide/vod",
+      "name": "全网影视",
+      "detail": "https://www.ozysapi.com"
+    },
+    "pzys1": {
+      "api": "https://api.pzysapi.com/api.php/provide/vod",
+      "name": "精品影视",
+      "detail": "https://www.pzysapi.com"
+    },
+    "qzys1": {
+      "api": "https://api.qzysapi.com/api.php/provide/vod",
+      "name": "全网追剧",
+      "detail": "https://www.qzysapi.com"
+    },
+    "rzys1": {
+      "api": "https://api.rzysapi.com/api.php/provide/vod",
+      "name": "热门影视",
+      "detail": "https://www.rzysapi.com"
+    },
+    "szys1": {
+      "api": "https://api.szysapi.com/api.php/provide/vod",
+      "name": "随身影视",
+      "detail": "https://www.szysapi.com"
+    },
+    "tzys1": {
+      "api": "https://api.tzysapi.com/api.php/provide/vod",
+      "name": "天天影视",
+      "detail": "https://www.tzysapi.com"
+    },
+    "uzys1": {
+      "api": "https://api.uzysapi.com/api.php/provide/vod",
+      "name": "无广告影视",
+      "detail": "https://www.uzysapi.com"
+    },
+    "wzys1": {
+      "api": "https://api.wzysapi.com/api.php/provide/vod",
+      "name": "万能影视",
+      "detail": "https://www.wzysapi.com"
+    },
+    "xzys1": {
+      "api": "https://api.xzysapi.com/api.php/provide/vod",
+      "name": "小众影视",
+      "detail": "https://www.xzysapi.com"
+    },
+    "yzys1": {
+      "api": "https://api.yzysapi.com/api.php/provide/vod",
+      "name": "优质影视",
+      "detail": "https://www.yzysapi.com"
+    },
+    "zzys1": {
+      "api": "https://api.zzysapi.com/api.php/provide/vod",
+      "name": "至尊影视",
+      "detail": "https://www.zzysapi.com"
+    }
   }
 }
